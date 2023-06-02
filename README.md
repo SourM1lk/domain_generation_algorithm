@@ -18,7 +18,7 @@ To use this program, follow these steps:
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/your-username/random-domain-generator.git](https://github.com/SourM1lk/domain_generation_algorithm.git)
+git clone https://github.com/SourM1lk/domain_generation_algorithm.git
 ```
 2. Navigate to the project directory:
 ```bash
